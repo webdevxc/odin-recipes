@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(255, 208, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(226, 76, 101);
+    text-align: center;
+    
+}
+
+img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
+
+.ulindex {
+        font-size: 28px;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-style: italic;
+
+}
+
+.desc {
+    text-align: center;
+    color: rgb(124, 36, 9);
+    font-style: italic;
+    font-size: small;
+}
